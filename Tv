@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,ARY News
+http://arynews.hopto.org:8000/tv.m3u8
+
+#EXTINF:-1,Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1,Bol News
 https://playlive.goonj.pk/bolweb_480p/index.m3u8
 
@@ -59,6 +65,9 @@ https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ary Digital
 http://ccn.anytv.live:8080/sonyten3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Hum Sitaray
+http://configuration.tn:8000/live/riadh3295/chaaben3295/7538.m3u8
+
 #EXTINF:-1,Filmax
 https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 
@@ -76,6 +85,9 @@ https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 
 #EXTINF:-1,AndTV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
+
+#EXTINF:-1,AndTV 2
+http://45.120.188.76:8080/0.ts
 
 #EXTINF:-1,AndFlix
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
@@ -191,6 +203,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1,Zing 
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
+#EXTINF:-1,Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+
 #EXTINF:-1,BollywooD 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
@@ -206,8 +221,15 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1,Wow Cinema 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
+
 #EXTINF:-1,Bflix Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1,Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+
+#EXTINF:-1,Manoranjan Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
 #EXTINF:-1,B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -251,8 +273,11 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1,B4U Music 
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#EXTINF:-1,8XM Music 
+#EXTINF:-1,8XM
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
+
+#EXTINF:-1,Masti Music
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1,Brit Asia 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
