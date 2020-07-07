@@ -63,7 +63,7 @@ https://playlive.goonj.pk/urdu1web_480p/index.m3u8
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Ary Digital
-http://ccn.anytv.live:8080/sonyten3/tracks-v1a1/mono.m3u8
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,Hum Sitaray
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7538.m3u8
@@ -272,6 +272,9 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 
 #EXTINF:-1,Jalwa 
 https://playlive.goonj.pk/jalwaweb_480p/index.m3u8
+
+#EXTINF:-1,Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
 #EXTINF:-1,Rai 1 
 https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/rai1_2400/chunklist.m3u8
