@@ -221,7 +221,6 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1,Wow Cinema 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
-
 #EXTINF:-1,Bflix Movies 
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
@@ -230,6 +229,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 
 #EXTINF:-1,Manoranjan Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+
+#EXTINF:-1,Movie
+https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -242,9 +244,6 @@ http://202.163.117.6:9981/stream/channelid/1210441427
 
 #EXTINF:-1,ConTv 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-
-#EXTINF:-1,Filmrise Movies 
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 
 #EXTINF:-1,Italian Movie Blade Runner 2049 
 https://867337138.tapecontent.net/radosgw/7GY3jBX0AoTAXMW/SMMn0WpBjmGpJqMKi5j8ebfyHTXML_LCCh9jh6duZJoEFDN-6lE4jY_glJHZydSCnlh7N__VqMTCi9syNwVOIjdfZQ6bpsG3_MO0J5Bs39_pbkyHLUc-4GmdNcjSGx5a3-JhV2vosx95TUhSgjCR_yI1Gn4orOP8exSzS-OYkRsP9ZAfyARpBu0VU2tAiuqIKmnl-VSbZ2zqiBg2Ls8VFafadkNJH1tnqBTVDKLyeHmvAqKmOyHsFQXtzJMpMyobHTa9_EUB-XmKts0_jQPMv3rwcgI--oCP57mf9jBW7JXJ-wmyjWd1JiA22SA/Blade+Runner+2049+%5Bm1080p%5D+%282017%29+%5BID16274%5D.mp4?stream=1
@@ -261,6 +260,12 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1,B4U Music 
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
+#EXTINF:-1,MTV Beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+#EXTINF:-1,Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
 #EXTINF:-1,8XM
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
@@ -269,6 +274,12 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1,Brit Asia 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+
+#EXTINF:-1,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1,Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,Jalwa 
 https://playlive.goonj.pk/jalwaweb_480p/index.m3u8
@@ -345,5 +356,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,Discovery Science 
 http://84.54.128.52:9090/play/17004/index.m3u8
 
-#EXTINF:-1,Ten 1 
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1,TLC 
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+
