@@ -11,12 +11,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195041/ei/Q
 #EXTINF:-1,GTV News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595194498/ei/ImgUX-m1Bs-QvQS3oKiQBg/ip/62.170.197.34/id/CIfNo9vagg0.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGVmt75g0nPJcNd1w7bK_V7ych7E17tDFs4qcVO-II1gCIBnl8f7arUvlMJ3kpLGlUb9MoG5zseGWXy6JE3enKHj9/file/index.m3u8/
 
-#EXTINF:-1,KTN News
-https://cdn7.mjunoon.tv:8087/web/KTNNews-151/live/151M/chunks.m3u8?nimblesessionid=5306100&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDM6MjI6MjAgUE0maGFzaF92YWx1ZT1xd3p3SjB1Y3lMUW1FV0Y1VVJVcitnPT0mdmFsaWRtaW51dGVzPTE=
-
-#EXTINF:-1,Din News
-https://cdn6.mjunoon.tv:8087/web/UK44-145/live/145M/chunks.m3u8?nimblesessionid=4735409&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDM6MjQ6NDUgUE0maGFzaF92YWx1ZT02dFE2c0NhZVFkWkVmMkd3dndoZjd3PT0mdmFsaWRtaW51dGVzPTE=
-
 #EXTINF:-1,Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 
@@ -82,9 +76,6 @@ https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
 
 #EXTINF:-1,PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-
-#EXTINF:-1,Apna Channel
-https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/live/134H/chunks.m3u8?nimblesessionid=298023370&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDM6Mjc6MTEgUE0maGFzaF92YWx1ZT16Ykt5Y2pUd2ZsdXFaQmlxQ2FsczJRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1,Geo Entertainment 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
@@ -303,9 +294,9 @@ https://playlive.goonj.pk/jalwaweb_480p/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
 #EXTINF:-1,Rai 1 
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/rai1_2400/chunklist.m3u8
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
-#EXTINF:-1,Rai 2 
+#EXTINF:-1,Rai 2
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 
 #EXTINF:-1,Rai 4 
