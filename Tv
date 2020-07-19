@@ -2,6 +2,9 @@
 #EXTINF:-1,ARY News
 http://arynews.hopto.org:8000/tv.m3u8
 
+#EXTINF:-1,Din News HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595206459/ei/2pYUX--6NcW81Aa61oHwCQ/ip/62.170.197.34/id/0RylOS6Oq8g.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN6FMSqiWdNR4pDqYdk0S7aJw9BE9AgA2ZpQvguOhQGjAiACFqDAkQHCblgnEEYtc4Xt1qhwbD_9jSQaI4TqaHn-vA%3D%3D/file/index.m3u8
+
 #EXTINF:-1,GNN News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195041/ei/QWoUX4PULtyT1AbK8LXwAg/ip/62.170.197.34/id/ncyDlMxBLTQ.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOmTt66eo3Vncp5Decw0YPbsTMsPuc7F1FO_BVClqrRaAiEAnJhXJ7_aLhSEgV2xwtOvmzLWKcMPbevPJPyYSZ9xULk%3D/file/index.m3u8/
 
@@ -56,8 +59,14 @@ https://playlive.goonj.pk/samaaweb_480p/index.m3u8
 #EXTINF:-1,Samaa News HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195336/ei/Z2sUX4WGPKmM3LUP1vKqqA8/ip/62.170.197.34/id/ykCzfLZCe5A.2/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPo7J5ymhnsK6tbhQh_uHzNYRfIu-ZUVyFHFhvNdaeglAiEAzo55dkEp_Ld435WOaDXmZuJyykfB5gwB2AR3stTjGsc%3D/file/index.m3u8
 
+#EXTINF:-1,Lahore News
+https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1917183443_b682000.m3u8
+
 #EXTINF:-1,Dunya News
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+
+#EXTINF:-1,Dunya News 2
+https://vidcdn.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w2093062437.m3u8
 
 #EXTINF:-1,ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
@@ -131,44 +140,8 @@ http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,Bollywood
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 
-#EXTINF:-1,Sony Entertainment
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Sony Sab HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Sony Sab
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Max HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Sony Max
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Sony Max2
-https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
-
-#EXTINF:-1,Sony Pix HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Axn
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Sony Pal
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=
-
-#EXTINF:-1,Sony Wah
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
-
-#EXTINF:-1,Sony Six
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-
-#EXTINF:-1,Sony BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,Sony Yay
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1,Gabruu Tv
+http://104.237.60.234/live/gabruutv.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
@@ -236,6 +209,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1,Zing 
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
+#EXTINF:-1,GEM Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+
 #EXTINF:-1,Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
@@ -287,6 +263,9 @@ https://867337138.tapecontent.net/radosgw/7GY3jBX0AoTAXMW/SMMn0WpBjmGpJqMKi5j8eb
 #EXTINF:-1,Music India 
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
+#EXTINF:-1,Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
 #EXTINF:-1,Dil Se 
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
 
@@ -307,9 +286,6 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
 #EXTINF:-1,8XM
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
-
-#EXTINF:-1,Masti Music
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1,Brit Asia 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
