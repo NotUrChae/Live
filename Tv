@@ -374,4 +374,6 @@ http://84.54.128.52:9090/play/17004/index.m3u8
 #EXTINF:-1,TLC 
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
+#EXTINF:-1,Rap Town Radio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595206799/ei/L5gUX7M5punj4Q_WyrmoCQ/ip/62.170.197.34/id/dTtshy4KzSY.1/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMdzqJm8h-zIjSu6VBeh5KjM2JX9U5REcUv9-6BRPMhICIDBSmlzj1IbtgUX87HEv1rcyRguH8cB55LYrnY0s5wR7/file/index.m3u8
 
