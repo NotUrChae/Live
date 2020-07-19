@@ -2,8 +2,23 @@
 #EXTINF:-1,ARY News
 http://arynews.hopto.org:8000/tv.m3u8
 
+#EXTINF:-1,GNN News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195041/ei/QWoUX4PULtyT1AbK8LXwAg/ip/62.170.197.34/id/ncyDlMxBLTQ.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOmTt66eo3Vncp5Decw0YPbsTMsPuc7F1FO_BVClqrRaAiEAnJhXJ7_aLhSEgV2xwtOvmzLWKcMPbevPJPyYSZ9xULk%3D/file/index.m3u8/
+
+#EXTINF:-1,GTV News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595194498/ei/ImgUX-m1Bs-QvQS3oKiQBg/ip/62.170.197.34/id/CIfNo9vagg0.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGVmt75g0nPJcNd1w7bK_V7ych7E17tDFs4qcVO-II1gCIBnl8f7arUvlMJ3kpLGlUb9MoG5zseGWXy6JE3enKHj9/file/index.m3u8/
+
+#EXTINF:-1,KTN News
+https://cdn7.mjunoon.tv:8087/web/KTNNews-151/live/151M/chunks.m3u8?nimblesessionid=5306100&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDM6MjI6MjAgUE0maGFzaF92YWx1ZT1xd3p3SjB1Y3lMUW1FV0Y1VVJVcitnPT0mdmFsaWRtaW51dGVzPTE=
+
+#EXTINF:-1,Din News
+https://cdn6.mjunoon.tv:8087/web/UK44-145/live/145M/chunks.m3u8?nimblesessionid=4735409&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDM6MjQ6NDUgUE0maGFzaF92YWx1ZT02dFE2c0NhZVFkWkVmMkd3dndoZjd3PT0mdmFsaWRtaW51dGVzPTE=
+
 #EXTINF:-1,Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Hum News HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195599/ei/b2wUX_T7H5OWvQSDvoegCg/ip/62.170.197.34/id/OOsLRtF7tJg.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXTKWVSrCe1upCZNsg5jaBPcrNim7joTWuJr0f-jVzGECIQCU3opPnHdhE5avwwt1oXqKELj6dsXJvRDc9CTXg_jCEA%3D%3D/file/index.m3u8
 
 #EXTINF:-1,Bol News
 https://playlive.goonj.pk/bolweb_480p/index.m3u8
@@ -20,11 +35,26 @@ https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.
 #EXTINF:-1,Neo News
 https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
 
+#EXTINF:-1,Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
+
+#EXTINF:-1,ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+
+#EXTINF:-1,India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+
+#EXTINF:-1,Aaj Tak
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+
 #EXTINF:-1,Public News
 https://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
 
 #EXTINF:-1,Samaa News
 https://playlive.goonj.pk/samaaweb_480p/index.m3u8
+
+#EXTINF:-1,Samaa News HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195336/ei/Z2sUX4WGPKmM3LUP1vKqqA8/ip/62.170.197.34/id/ykCzfLZCe5A.2/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPo7J5ymhnsK6tbhQh_uHzNYRfIu-ZUVyFHFhvNdaeglAiEAzo55dkEp_Ld435WOaDXmZuJyykfB5gwB2AR3stTjGsc%3D/file/index.m3u8
 
 #EXTINF:-1,Dunya News
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
@@ -43,6 +73,9 @@ https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
 
 #EXTINF:-1,PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+
+#EXTINF:-1,Apna Channel
+https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/live/134H/chunks.m3u8?nimblesessionid=298023370&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDM6Mjc6MTEgUE0maGFzaF92YWx1ZT16Ykt5Y2pUd2ZsdXFaQmlxQ2FsczJRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1,Geo Entertainment 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
@@ -217,7 +250,10 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 #EXTINF:-1,Shemaroo Bollywood Premier 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-	
+
+#EXTINF:-1,Shemaroo Punjabi 
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1,Wow Cinema 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
@@ -256,6 +292,9 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&re
 
 #EXTINF:-1,Kadak Hits 
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+#EXTINF:-1,Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,B4U Music 
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
