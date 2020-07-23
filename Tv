@@ -62,6 +62,12 @@ https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
 #EXTINF:-1,PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
+#EXTINF:-1,ARY family
+http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
+
+#EXTINF:-1,ARY Muzik
+http://stariptv.top:2086/7899/7899/17124?checkedby:iptvcat.com
+
 #EXTINF:-1,Hum TV
 http://stariptv.top:2086/7899/7899/6991?checkedby:iptvcat.com
 
