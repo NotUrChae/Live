@@ -2,15 +2,6 @@
 #EXTINF:-1,ARY News
 http://arynews.hopto.org:8000/tv.m3u8
 
-#EXTINF:-1,Din News HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595467591/ei/55IYX_7dMpeC3LUPoN6KwAw/ip/5.102.14.194/id/0RylOS6Oq8g.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIjivg6GCz28HIGOOLw0IFnvS-V1juZU68M5dB9yctoRAiBcVYzwVlndqY_gocJfIl5awxBMdcs8uJcg5JY6laPftw%3D%3D/file/index.m3u8
-
-#EXTINF:-1,GNN News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595467691/ei/S5MYX_DeJZOo8QO7tYuIDw/ip/5.102.14.194/id/ncyDlMxBLTQ.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALtoRmJewz0JygSgA2UBea6ae5cgo9QyyeUZlk78JxDrAiEA2fRsLJT-q5e0j9N3Bz5CPPIFBsrC8tY3tZELLULgIKM%3D/file/index.m3u8
-
-#EXTINF:-1,GTV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595467435/ei/S5IYX_LwA-68z7sP_7OqiAE/ip/5.102.14.194/id/CIfNo9vagg0.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHzTnQxkS5RCXna_Mk_C48u91mW24AikLNlI0L-h1AFICIBLnHIDGOom00cKL84y1eoNAY8H8I0wVOvwVMIQIhzN3/file/index.m3u8
-
 #EXTINF:-1,Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 
@@ -47,9 +38,6 @@ https://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
 #EXTINF:-1,Samaa News
 https://playlive.goonj.pk/samaaweb_480p/index.m3u8
 
-#EXTINF:-1,Samaa News HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595195336/ei/Z2sUX4WGPKmM3LUP1vKqqA8/ip/62.170.197.34/id/ykCzfLZCe5A.2/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPo7J5ymhnsK6tbhQh_uHzNYRfIu-ZUVyFHFhvNdaeglAiEAzo55dkEp_Ld435WOaDXmZuJyykfB5gwB2AR3stTjGsc%3D/file/index.m3u8
-
 #EXTINF:-1,Lahore News
 https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1917183443_b682000.m3u8
 
@@ -58,9 +46,6 @@ https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
 #EXTINF:-1,Dunya News 2
 https://vidcdn.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w2093062437.m3u8
-
-#EXTINF:-1,ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:-1,PTV News
 https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8
@@ -91,12 +76,6 @@ https://playlive.goonj.pk/urdu1web_480p/index.m3u8
 
 #EXTINF:-1,Ary Zindagi
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Ary Digital
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,Hum Sitaray
-http://configuration.tn:8000/live/riadh3295/chaaben3295/7538.m3u8
 
 #EXTINF:-1,Filmax
 https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
@@ -245,9 +224,6 @@ http://202.163.117.6:9981/stream/channelid/1210441427
 #EXTINF:-1,ConTv 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 
-#EXTINF:-1,Italian Movie Blade Runner 2049 
-https://867337138.tapecontent.net/radosgw/7GY3jBX0AoTAXMW/SMMn0WpBjmGpJqMKi5j8ebfyHTXML_LCCh9jh6duZJoEFDN-6lE4jY_glJHZydSCnlh7N__VqMTCi9syNwVOIjdfZQ6bpsG3_MO0J5Bs39_pbkyHLUc-4GmdNcjSGx5a3-JhV2vosx95TUhSgjCR_yI1Gn4orOP8exSzS-OYkRsP9ZAfyARpBu0VU2tAiuqIKmnl-VSbZ2zqiBg2Ls8VFafadkNJH1tnqBTVDKLyeHmvAqKmOyHsFQXtzJMpMyobHTa9_EUB-XmKts0_jQPMv3rwcgI--oCP57mf9jBW7JXJ-wmyjWd1JiA22SA/Blade+Runner+2049+%5Bm1080p%5D+%282017%29+%5BID16274%5D.mp4?stream=1
-
 #EXTINF:-1,Music India 
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
@@ -356,12 +332,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1,TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1,Discovery Science 
-http://84.54.128.52:9090/play/17004/index.m3u8
-
 #EXTINF:-1,TLC 
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-
-#EXTINF:-1,Rap Town Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595206799/ei/L5gUX7M5punj4Q_WyrmoCQ/ip/62.170.197.34/id/dTtshy4KzSY.1/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMdzqJm8h-zIjSu6VBeh5KjM2JX9U5REcUv9-6BRPMhICIDBSmlzj1IbtgUX87HEv1rcyRguH8cB55LYrnY0s5wR7/file/index.m3u8
 
