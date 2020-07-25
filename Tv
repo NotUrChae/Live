@@ -29,6 +29,9 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 #EXTINF:-1,India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
+#EXTINF:-1,Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
 #EXTINF:-1,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
@@ -47,9 +50,6 @@ https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1917183443_b682
 #EXTINF:-1,Dunya News
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
-#EXTINF:-1,Dunya News 2
-https://vidcdn.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w2093062437.m3u8
-
 #EXTINF:-1,PTV News
 https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8
 
@@ -61,6 +61,9 @@ https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
 
 #EXTINF:-1,PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+
+#EXTINF:-1,Isaac TV
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
 #EXTINF:-1,ARY family
 http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
@@ -141,13 +144,16 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1,Colors Rishtey
-https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/rishtey/playlist.m3u8
 
 #EXTINF:-1,Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:-1,Star Gold UK
 http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
+
+#EXTINF:-1,Star Gold 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
@@ -158,6 +164,9 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
+#EXTINF:-1,Big Magic
+http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
+
 #EXTINF:-1,Manoranjan
 https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
@@ -165,15 +174,18 @@ https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 
 #EXTINF:-1,Zee Cinema 2
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://z5amshls.akamaized.net/zcinemahd/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1,Zee Cinema 3
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1,Zee Cinema 4
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1,Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1,Zee Cinema 4
+#EXTINF:-1,Zee Cinema 5
 https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1,Zee Action
@@ -218,6 +230,9 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1,Shemaroo Punjabi 
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1,Jhanjar 
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
 #EXTINF:-1,Wow Cinema 
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
@@ -241,6 +256,12 @@ http://80.78.65.170:8383/StarHD
 
 #EXTINF:-1,Star Movies 
 http://202.163.117.6:9981/stream/channelid/1210441427
+
+#EXTINF:-1,Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:-1,Sony Movies
+http://51.52.156.22:8888/http/009
 
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -295,6 +316,12 @@ https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
 #EXTINF:-1,Brit Asia 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+
+#EXTINF:-1,Steel Bird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1,Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
 #EXTINF:-1,Punjabi Music
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
@@ -374,6 +401,9 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1,NBC News 
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
+#EXTINF:-1,BBC News
+http://51.52.156.22:8888/http/004
+
 #EXTINF:-1,Sky News 
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
@@ -392,11 +422,26 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1,TLC 
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
+Warner Bros
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1,NASA
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1,History TV
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:-1,Fox Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+
+#EXTINF:-1,National Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+#EXTINF:-1 ,National Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:-1,Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
