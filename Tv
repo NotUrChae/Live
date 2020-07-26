@@ -221,7 +221,10 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zee Cinema 5
 https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:-1,Zee Action
+#EXTINF:-1,Zee Action 
+http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zee Action 2
 http://202.163.117.6:9981/stream/channelid/147188177
 
 #EXTINF:-1,Zee TV
