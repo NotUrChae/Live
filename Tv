@@ -20,6 +20,12 @@ https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.
 #EXTINF:-1,Neo News
 https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
 
+#EXTINF:-1,Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+
+#EXTINF:-1,GNN News
+https://youtu.be/ncyDlMxBLTQ
+
 #EXTINF:-1,Republic TV
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 
@@ -48,7 +54,7 @@ https://playlive.goonj.pk/samaaweb_480p/index.m3u8
 https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1917183443_b682000.m3u8
 
 #EXTINF:-1,Dunya News
-https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+https://vidcdn.dunyanews.tv/livehttp/_definst_/dunyalive_1/chunklist.m3u8
 
 #EXTINF:-1,PTV News
 https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8
@@ -69,7 +75,7 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
 
 #EXTINF:-1,ARY Muzik
-http://stariptv.top:2086/7899/7899/17124?checkedby:iptvcat.com
+hhttps://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Hum TV
 http://stariptv.top:2086/7899/7899/6991?checkedby:iptvcat.com
