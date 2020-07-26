@@ -140,6 +140,33 @@ http://jalsamovies-i.akamaihd.net/hls/live/569886/jalsamovies/master_600.m3u8
 #EXTINF:-1,Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
+#EXTINF:-1,Sony Set
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Max HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Max2 
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Sab
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Pal
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Wah
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Aath
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Marathi
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,Sony Yay 
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
+
 #EXTINF:-1,Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
@@ -205,6 +232,18 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:-1,Zing 
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+#EXTINF:-1,MovieZone
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
+
+#EXTINF:-1,Bollywood Movie
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+
+#EXTINF:-1,Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+
+#EXTINF:-1,Lollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_288p/index.m3u8
 
 #EXTINF:-1,GEM Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
@@ -445,3 +484,9 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 #EXTINF:-1,Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1,ESR 
+https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in_480p/index.m3u8
+
+#EXTINF:-1,Gaming Tv 
+https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in_480p/index.m3u8
