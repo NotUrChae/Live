@@ -125,11 +125,20 @@ http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,AndTV 2
 http://45.120.188.76:8080/0.ts
 
-#EXTINF:-1,AndFlix
+#EXTINF:-1,AndFlix HD
+http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,AndFlix 
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
-#EXTINF:-1,AndPictures
+#EXTINF:-1,AndPictures HD
+http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,AndPictures SD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+
+#EXTINF:-1,AndPrivè HD
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,Bollywood
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
@@ -221,11 +230,20 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zee Cinema 5
 https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
+#EXTINF:-1,Zee Anmol Cinema
+http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1,Zee Action 
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,Zee Action 2
 http://202.163.117.6:9981/stream/channelid/147188177
+
+#EXTINF:-1,Zee Magic
+http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zee Talkies HD
+http://z5amshls.akamaized.net/ztalkieshd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,Zee TV
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
@@ -239,8 +257,29 @@ http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1,Zee Bollywood 
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8	
 
-#EXTINF:-1,Zing 
+#EXTINF:-1,Zee World
+http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zee Punjabi
+http://z5amshls.akamaized.net/punjabi/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zee Ect
+http://z5amshls.akamaized.net/etc/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zing
+http://z5amshls.akamaized.net/zing/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zing 2
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+#EXTINF:-1,Zee Sarthak
+http://z5amshls.akamaized.net/sarthaktv/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zee 24Kalak
+http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,Zee Big Ganga
+http://z5amshls.akamaized.net/bigganga/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,MovieZone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
@@ -470,7 +509,7 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1,TLC 
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
-Warner Bros
+#EXTINF:-1,Warner Bros
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:-1,CNA
@@ -484,6 +523,9 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:-1,Fox Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+
+#EXTINF:-1,Fox Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1,National Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
@@ -499,3 +541,6 @@ https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in_480p/index.m3u8
 
 #EXTINF:-1,Gaming Tv 
 https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in_480p/index.m3u8
+
+#EXTINF:-1,Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/playlist.m3u8
