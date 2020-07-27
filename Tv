@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ARY News
+#EXTINF:0 tvg-name="ARY News" tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News
 http://arynews.hopto.org:8000/tv.m3u8
 
 #EXTINF:-1,Hum News
