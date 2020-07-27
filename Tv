@@ -68,37 +68,37 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/lY7e4Kq.png" group-title="News",Isaac TV
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
-#EXTINF:-1,ARY family
+#EXTINF:-1 group-title="Entertainment",ARY family
 http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
 
 #EXTINF:-1,ARY Muzik
 hhttps://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Hum TV
+#EXTINF:-1 group-title="Entertainment",Hum TV
 http://stariptv.top:2086/7899/7899/6991?checkedby:iptvcat.com
 
-#EXTINF:-1,Hum Sitaray
+#EXTINF:-1 group-title="Entertainment",Hum Sitaray
 http://stariptv.top:2086/7899/7899/7736?checkedby:iptvcat.com
 
-#EXTINF:-1,Geo Kahani
+#EXTINF:-1 group-title="Entertainment",Geo Kahani
 http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 
-#EXTINF:-1,Geo Entertainment 
+#EXTINF:-1 group-title="Entertainment",Geo Entertainment 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
 
-#EXTINF:-1,Aaj Entertainment
+#EXTINF:-1 group-title="Entertainment",Aaj Entertainment
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8
 
-#EXTINF:-1,Express Entertainment
+#EXTINF:-1 group-title="Entertainment",Express Entertainment
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
 
-#EXTINF:-1,A Plus
+#EXTINF:-1 group-title="Entertainment",A Plus
 https://playlive.goonj.pk/aplusweb_480p/index.m3u8
 
-#EXTINF:-1,Urdu 1
+#EXTINF:-1 group-title="Entertainment",Urdu 1
 https://playlive.goonj.pk/urdu1web_480p/index.m3u8
 
-#EXTINF:-1,Ary Zindagi
+#EXTINF:-1 group-title="Entertainment",Ary Zindagi
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Filmax
@@ -116,10 +116,10 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1,Hum Masala
 https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 
-#EXTINF:-1,AndTV
+#EXTINF:-1 group-title="Entertainment",AndTV
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 
-#EXTINF:-1,AndTV 2
+#EXTINF:-1 group-title="Entertainment",AndTV 2
 http://45.120.188.76:8080/0.ts
 
 #EXTINF:-1,AndFlix HD
@@ -139,18 +139,6 @@ http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1,Bollywood
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-
-#EXTINF:-1,Gabruu Tv
-http://104.237.60.234/live/gabruutv.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-
-#EXTINF:-1,Nazrana
-http://jalsamovies-i.akamaihd.net/hls/live/569886/jalsamovies/master_600.m3u8
-
-#EXTINF:-1,Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:-1,Sony Set
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
@@ -179,10 +167,10 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
 #EXTINF:-1,Sony Yay 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
 
-#EXTINF:-1,Colors
+#EXTINF:-1 group-title="Entertainment",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-#EXTINF:-1,Colors Rishtey
+#EXTINF:-1 group-title="Entertainment",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/playlist.m3u8
 
 #EXTINF:-1,Star Gold HD
@@ -371,11 +359,14 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Music India 
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
+#EXTINF:-1,Gabruu Tv
+http://104.237.60.234/live/gabruutv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
 #EXTINF:-1,Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-
-#EXTINF:-1,Dil Se 
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,Prime Asia TV
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
