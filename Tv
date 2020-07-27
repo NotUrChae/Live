@@ -404,73 +404,73 @@ http://1music.hu/1music.m3u8
 #EXTINF:-1,MTA 1 Urdu
 https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
 
-#EXTINF:-1,Rai 1 
+#EXTINF:-1 group-title="Italia",Rai 1 
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
-#EXTINF:-1,Rai 2
+#EXTINF:-1 group-title="Italia",Rai 2
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 
-#EXTINF:-1,Rai 4 
+#EXTINF:-1 group-title="Italia",Rai 4 
 https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 
-#EXTINF:-1,Rai 5 
+#EXTINF:-1 group-title="Italia",Rai 5 
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
 
-#EXTINF:-1,Rai Movie 
+#EXTINF:-1 group-title="Italia",Rai Movie 
 https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1,Rai Premium 
+#EXTINF:-1 group-title="Italia",Rai Premium 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 
-#EXTINF:-1,Rai News24 
+#EXTINF:-1 group-title="Italia",Rai News24 
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
-#EXTINF:-1,Rai Gulp 
+#EXTINF:-1 group-title="Italia",Rai Gulp 
 https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Rai Yoyo 
+#EXTINF:-1 group-title="Italia",Rai Yoyo 
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
-#EXTINF:-1,Boing 
+#EXTINF:-1 group-title="Italia",Boing 
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 
-#EXTINF:-1,Cartoonito 
+#EXTINF:-1 group-title="Italia",Cartoonito 
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 
-#EXTINF:-1,Italia 1 
+#EXTINF:-1 group-title="Italia",Italia 1 
 http://s3.smashmalta.com:82/live/smash/smash/51.ts?checkedby:iptvcat.com
 
-#EXTINF:-1,Italia 2 
+#EXTINF:-1 group-title="Italia",Italia 2 
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 
-#EXTINF:-1,VH1 
+#EXTINF:-1 group-title="Italia",VH1 
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1,Fox Sports 
+#EXTINF:-1 group-title="News",Fox Sports 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1,RT 
+#EXTINF:-1group-title="News",RT 
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 
-#EXTINF:-1,Newsmax 
+#EXTINF:-1group-title="News",Newsmax 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
-#EXTINF:-1,NBC News 
+#EXTINF:-1group-title="News",NBC News 
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
-#EXTINF:-1,BBC News
+#EXTINF:-1group-title="News",BBC News
 http://51.52.156.22:8888/http/004
 
-#EXTINF:-1,Sky News 
+#EXTINF:-1group-title="News",Sky News 
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1,Al Jazeera 
+#EXTINF:-1group-title="News",Al Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1,NHK World 
+#EXTINF:-1group-title="News",NHK World 
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1,TRT World 
+#EXTINF:-1group-title="News",TRT World 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1,Court TV
