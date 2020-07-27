@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-name="ARY News" tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News
 http://arynews.hopto.org:8000/tv.m3u8
 
-#EXTINF:-1,Hum News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBAeTku.png" group-title="News",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1,Bol News
