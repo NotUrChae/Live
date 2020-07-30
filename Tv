@@ -29,6 +29,9 @@ https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eupGqX0.png" group-title="News",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
+#EXTINF:0 group-title="News",Geo Tez
+https://jk3lz82elw79-hls-live.5centscdn.com/test/9a5ac02c8bf2cc77102a0bd686e2c0a2.sdp/test/9a5ac02c8bf2cc77102a0bd686e2c0a2.sdp1/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/dECHRLO.jpg" group-title="News",Republic TV
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 
@@ -71,7 +74,7 @@ https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/lY7e4Kq.png" group-title="News",Isaac TV
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MitOPXl.png" group-title="Entertainment",ARY family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MitOPXl.png" group-title="Entertainment",ARY Family
 http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tx0ITNE.png" group-title="Music",ARY Muzik
