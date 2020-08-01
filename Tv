@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News"ARY News
+#EXTINF:0 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News
 https://stream.arylive.com/NewsLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="News",GNN News
