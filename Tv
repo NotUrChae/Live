@@ -155,6 +155,9 @@ http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdXYiZV.png" group-title="Entertainment",Sony Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 
+#EXTINF:0 group-title="Entertainment",Sony Max 2
+http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p65b3zY.jpg" group-title="Entertainment",Sony Sab
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
 
@@ -571,9 +574,6 @@ http://4tv.site:80/live/douglas1155/4187731155/34470.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Kids",Nimo TV
 https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Entertainment",Sony Max 2
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Sports",Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
