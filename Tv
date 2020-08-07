@@ -2,9 +2,6 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News
 https://stream.arylive.com/NewsLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="News",GNN News
-https://www.youtube.com/watch?v=ncyDlMxBLTQ
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News 2
 http://arynews.hopto.org:8000/tv.m3u8
 
@@ -221,6 +218,9 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f86vJbo.jpg" group-title="Entertainment",Zee Anmol Cinema
 http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phAE1yS.jpg" group-title="Entertainment",Zee Action 
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
 
@@ -323,7 +323,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Movie
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,B4U Kadak 
+#EXTINF:-1 #EXTINF:-1 group-title="Entertainment",,B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment",StarHD 
@@ -461,6 +461,9 @@ http://s3.smashmalta.com:82/live/smash/smash/51.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Italia",Italia 2 
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 
+#EXTINF:-1 group-title="Italia",Discovery
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
 #EXTINF:-1 group-title="Italia",VH1 
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
@@ -559,21 +562,6 @@ https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Sports",Star Cricket 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
-
-#EXTINF:0 group-title="Sports",Sony Six
-http://103.205.133.14/hls/sonysix.m3u8
-
-#EXTINF:0 group-title="Sports",Sony Ten 1
-http://103.205.133.14/hls/ten1.m3u8
-
-#EXTINF:0 group-title="Entertainment",HBO Family
-http://4tv.site:80/live/douglas1155/4187731155/34489.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Sports",ESPN
-http://4tv.site:80/live/douglas1155/4187731155/34470.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Kids",Nimo TV
-https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="Sports",Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
