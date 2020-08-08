@@ -548,15 +548,6 @@ http://4tv.site:80/live/douglas1155/4187731155/34480.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Entertainment",Warner Channel
 http://4tv.site:80/live/douglas1155/4187731155/34538.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Entertainment",Telecine Action 
-http://4tv.site:80/live/douglas1155/4187731155/34502.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Entertainment",Telecine Premium
-http://4tv.site:80/live/douglas1155/4187731155/18284.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 group-title="Entertainment",Telecine Fun
-http://4tv.site:80/live/douglas1155/4187731155/18282.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 group-title="Entertainment",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 
@@ -575,8 +566,23 @@ http://45.58.62.92:8081
 #EXTINF:0 group-title="Sports",Fox Cricket
 http://stream-e30453a4b.nmbs.top/m3u/Sports/28d1e232bb.m3u8
 
-#EXTINF:0 group-title="Sports",Sky Cricket
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+#EXTINF:0 group-title="Sports",Sky Sports Cricket
+http://tv.freecast123.com/tv/xaYIcV6v9K20190901/chunklist_w1636877582_tkaGxzZW5kdGltZT0xNTk2ODk2ODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bjR5RS1PT25jWWFOQmgxTU0yYm50UTdWU2lBQVBRNUZsUE4wOUpXVGp0ND0=.m3u8
 
-#EXTINF:0 group-title="Entertainment",MTV Europe
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 group-title="Sports",Sony Six
+http://tv.freecast123.com/tv/poRzTCgZu620180322/chunklist_w850840950_tkaGxzZW5kdGltZT0xNTk2ODk2NzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9N1g4TDFPYU5xeGxaV2h1QUt5Y2NOdHpDcVAybDhxckc0SkhoNjBSTkNvTT0=.m3u8
+
+#EXTINF:0 group-title="Sports",Fox Sports HD
+http://akamaizedx.com:80/lulalele/1324zcbv/10048332?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Sports",ESPN
+http://akamaizedx.com:80/lulalele/1324zcbv/10047793?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Sports",Willow 
+http://tv.freecast123.com/tv/6k6bIiEf4320190929/chunklist_w1364198432_tkaGxzZW5kdGltZT0xNTk2ODk3NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eEZQRU8zYXQ1WXlhdUx5UjR0UU1JUmViZ1hFdkNPeEhNRlZjYU90MHp1ST0=.m3u8
+
+#EXTINF:0 group-title="Kids",Nicktoons
+http://akamaizedx.com:80/lulalele/1324zcbv/10045436?checkedby:iptvcat.com
+
+
+
