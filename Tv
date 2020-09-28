@@ -143,36 +143,6 @@ http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QaEWasT.png" group-title="Entertainment",Bollywood
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xr4tn0P.png" group-title="Entertainment",Sony Set
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdXYiZV.png" group-title="Entertainment",Sony Max
-http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdXYiZV.png" group-title="Entertainment",Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
-
-#EXTINF:0 group-title="Entertainment",Sony Max 2
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p65b3zY.jpg" group-title="Entertainment",Sony Sab
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a1mseln.jpg" group-title="Entertainment",Sony Pal
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4F57ViS.jpg" group-title="Entertainment",Sony Wah
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H67KQko.png" group-title="Entertainment",Sony Aath
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BdD1RP.jpg" group-title="Entertainment",Sony Marathi
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxmTTb5.jpg" ,Sony Yay 
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NJ5Wim.png" group-title="Entertainment",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
