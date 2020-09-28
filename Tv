@@ -524,6 +524,9 @@ https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Sports",Star Cricket 
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
 
+#EXTINF:0 group-title="Sports",PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 group-title="Sports",Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
