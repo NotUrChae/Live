@@ -2,38 +2,17 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News
 https://stream.arylive.com/NewsLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/YBQ5YtN.jpg" group-title="News",ARY News 2
-http://arynews.hopto.org:8000/tv.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/yBAeTku.png" group-title="News",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/RaLx9yc.png" group-title="News",Bol News
-https://playlive.goonj.pk/bolweb_480p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/SR9EhTd.jpg" group-title="News",Dawn News
-https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/XnurUo1.jpg" group-title="News",Aaj News
-https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qGP8dtb.png" group-title="News",92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mFMUmUM.png" group-title="News",Neo News
-https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/eupGqX0.png" group-title="News",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
-#EXTINF:0 group-title="News",Geo Tez
-https://jk3lz82elw79-hls-live.5centscdn.com/test/9a5ac02c8bf2cc77102a0bd686e2c0a2.sdp/test/9a5ac02c8bf2cc77102a0bd686e2c0a2.sdp1/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/dECHRLO.jpg" group-title="News",Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/sDkWbWP.jpg" group-title="News",ABP News
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/MiRgBN6.png" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
@@ -47,32 +26,17 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:0 tvg-logo="https://i.imgur.com/Jsg06vD.png" group-title="News",Aaj Tak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/iag4GzH.jpg" group-title="News",Public News
-https://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/HsVwVf4.jpg" group-title="News",Samaa News
-https://playlive.goonj.pk/samaaweb_480p/index.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/YV9qIWX.jpg" group-title="News",Lahore News
 https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1917183443_b682000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/MBityVf.jpg" group-title="News",Dunya News
 https://vidcdn.dunyanews.tv/livehttp/_definst_/dunyalive_1/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/olGRxTJ.jpg" group-title="News",PTV News
-https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Av84VOb.jpg" group-title="News",PTV Home
-https://5ed6c4979aac2.streamlock.net/ptvhome/myStream/playlis.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/PhXLkHH.jpg"group-title="News" ,PTV World
-https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/lY7e4Kq.png" group-title="News",Isaac TV
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MitOPXl.png" group-title="Entertainment",ARY Family
-http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MitOPXl.png" group-title="Entertainment",ARY Digital
+http://rv.therevenge.co:80/477846155654/477846155654/84109?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tx0ITNE.png" group-title="Music",ARY Muzik
 https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
@@ -89,26 +53,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6peuXXS.png" group-title="Entertainment",Geo Entertainment 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gIeVjBv.png" group-title="Entertainment",Aaj Entertainment
-https://playlive.goonj.pk/aajentweb_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwDL5po.png" group-title="Entertainment",Express Entertainment
-https://playlive.goonj.pk/expressentweb_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLe5BFn.jpg" group-title="Entertainment",A Plus
-https://playlive.goonj.pk/aplusweb_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N77jXSH.png" group-title="Entertainment",Urdu 1
-https://playlive.goonj.pk/urdu1web_480p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezDWV4p.png" group-title="Entertainment",Ary Zindagi
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DDONDC2.png" group-title="Entertainment",Filmax
-https://playlive.goonj.pk/filmaxweb_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZ1JuP5.jpg" group-title="Entertainment",Film World
-https://playlive.goonj.pk/filmworldweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbM8uiu.png" ,Venus TV
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
@@ -128,14 +74,8 @@ http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FsBP6K.png" group-title="Entertainment",AndFlix HD
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6FsBP6K.png" group-title="Entertainment",AndFlix 
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GONoDOA.jpg" group-title="Entertainment",AndPictures HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GONoDOA.jpg" group-title="Entertainment",AndPictures SD
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsdxxRr.jpg" group-title="Entertainment",AndPrivè HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
@@ -335,6 +275,9 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 #EXTINF:-1 group-title="Music",Gabruu Tv
 http://104.237.60.234/live/gabruutv.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="Music",JOO Music
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="Music",Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
@@ -405,7 +348,7 @@ https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
 
 #EXTINF:-1 group-title="Italia",Rai Movie 
-https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+http://momotv.eu:2300/torino/torino/10595?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Italia",Rai Premium 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
@@ -415,6 +358,9 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 
 #EXTINF:-1 group-title="Italia",Rai Gulp 
 https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Italia",Rai Gulp HD
+http://momotv.eu:2300/torino/torino/10597?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Italia",Rai Yoyo 
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
@@ -469,6 +415,9 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 #EXTINF:-1 group-title="Entertainment",TLC 
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment",WWE Network
+http://usa.srvr.ltd:3503/warren/warren/1?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Entertainment",Warner Bros
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
