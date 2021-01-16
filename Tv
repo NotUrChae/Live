@@ -110,17 +110,29 @@ http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHzLAvi.jpg" group-title="Entertainment",Manoranjan
 https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee Cinema 
 http://z5amshls.akamaized.net/zcinemahd/tracks-v2a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dg0bMPv.jpg" group-title="Entertainment",Zee Cinema 2
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",B4U Movies
+http://104.218.60.145:83/live/12345678/87654321/380065.ts?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dg0bMPv.jpg" group-title="Entertainment",Zee Cinema 3
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Colors HD
+http://104.218.60.145:83/live/12345678/87654321/380077.ts?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dg0bMPv.jpg" group-title="Entertainment",Zee Cinema 4
-https://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Colors UK
+http://104.218.60.145:83/live/12345678/87654321/380061.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Sony SAB
+http://104.218.60.145:83/live/12345678/87654321/380070.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Star Plus
+http://104.218.60.145:83/live/12345678/87654321/379936.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Sony Six 
+http://104.218.60.145:83/live/12345678/87654321/379954.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee TV HD
+http://104.218.60.145:83/live/12345678/87654321/380073.ts?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/92Wr5Yt.jpg" group-title="Entertainment",Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
@@ -133,9 +145,6 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phAE1yS.jpg" group-title="Entertainment",Zee Action 
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/phAE1yS.jpg" group-title="Entertainment",Zee Action 2
-http://202.163.117.6:9981/stream/channelid/147188177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j82VKu8.jpg" group-title="Entertainment",Zee Magic
 http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
