@@ -110,6 +110,9 @@ http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHzLAvi.jpg" group-title="Entertainment",Manoranjan
 https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHzLAvi.jpg" group-title="Entertainment",Sony Wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
@@ -119,6 +122,9 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee Cinema UK
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee Classic
+http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TrUSiVX.jpg" group-title="Entertainment",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 
@@ -127,7 +133,6 @@ https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f86vJbo.jpg" group-title="Entertainment",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/phAE1yS.jpg" group-title="Entertainment",Zee Action 
 https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
@@ -149,6 +154,36 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mFKJzvH.jpg" group-title="Entertainment",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",UTV HD
+http://46.105.112.116/?watch=R-EX/FHD_UTV_-in&token=RED&m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",UTV Action
+http://hin2.error-404.website/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",B4U Movies
+http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Hum TV HD
+http://46.105.112.116/?watch=EX/humtv-pa&token=RED&e=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Hum Europe
+http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",ARY Digital
+http://46.105.112.116/?watch=EX/arydigital-pa&token=RED&e=<m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Sony Six
+http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED&e=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Sony Max 2
+http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",MTV Beats
+http://hin2.error-404.website/MTV_BEATS_US/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Zee Punjabi
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/playlist.m3u8
